@@ -1,10 +1,10 @@
 # codsoft
 # intern project
 # Rock, Paper, Scissors Game
-This is a classic Rock, Paper, Scissors game implemented in [programming language]. It's a simple console-based game where users can play against the computer.
+This is a classic Rock, Paper, Scissors game implemented in python programming. It's a simple console-based game where users can play against the computer.
 
 # Overview:
-This project is a classic implementation of the Rock, Paper, Scissors game in [programming language]. The game allows users to play against the computer, making random moves for an interactive and enjoyable experience.
+This project is a classic implementation of the Rock, Paper, Scissors game in python programming. The game allows users to play against the computer, making random moves for an interactive and enjoyable experience.
 
 # Features:
 User vs Computer gameplay.
