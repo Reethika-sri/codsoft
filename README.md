@@ -27,4 +27,4 @@ import random
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
 
 # License:
-This project is licensed under the rockpaperscissor. See the LICENSE.md file for details.
+This project is licensed under the CodSoft. See the LICENSE.md file for details.
